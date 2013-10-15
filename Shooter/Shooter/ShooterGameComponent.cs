@@ -57,7 +57,7 @@ namespace Shooter
         /// </summary>
         public void Initialize(Vector2 position)
         {
-            // TODO: Add your initialization code here
+            
             Position = position;
             Active = true;
             base.Initialize();
